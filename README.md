@@ -80,7 +80,9 @@ Hi! I'm a full-stack developer passionate about building modern, scalable applic
   <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png" alt="Postman" title="Postman"/>
   <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jira.png" alt="Jira" title="Jira"/>
   <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/swagger.png" alt="Swagger" title="Swagger"/>
-<img src="pikaHello.gif" width="50" alt="Pika hello mascot"/>
+</div>
+<div align="right">
+<img src="pikaHello.gif" width="30" alt="Pika hello mascot"/>
 </div>
 
 ---
