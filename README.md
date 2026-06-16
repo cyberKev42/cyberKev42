@@ -1,7 +1,7 @@
 <img alt="Header" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=300&section=header&text=Kevin%20%7C%20Full-Stack%20Dev&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=Java%20•%20Spring%20Boot%20•%20React%20•%20PostgreSQL&descAlignY=75&descAlign=50"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=667eea&center=true&width=500&lines=Full-Stack+Developer;Java+%26+Spring+Boot+Enthusiast;React+%26+React Native+Designer;Building+scalable+solutions" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=667eea&center=true&width=500&lines=Full-Stack+Developer;Java+%26+Spring+Boot+Enthusiast;React+%26+React+Native+Designer;Building+scalable+solutions" alt="Typing animation"/>
 </div>
 
 ---
@@ -89,7 +89,4 @@ Hi! I'm a full-stack developer passionate about building modern, scalable applic
 <div align="center">
   <img alt="Contribution Graph" src="https://raw.githubusercontent.com/cyberKev42/cyberKev42/output/github-contribution-grid-snake-dark.svg" />
 </div>
-
----
-
 <img alt="Footer" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=footer&fontSize=90&fontColor=ffffff&animation=fadeIn"/>
