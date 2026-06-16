@@ -71,9 +71,8 @@ Hi! I'm a full-stack developer passionate about building modern, scalable applic
 
 ### Tools & IDEs
 
-<table border="0" width="100%">
-<tr>
-<td valign="middle">
+<img src="pikaHello.gif" width="50" align="right" alt="Pika hello mascot"/>
+<div>
   <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/>
   <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="GitHub" title="GitHub"/>
   <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/gitlab.png" alt="GitLab" title="GitLab"/>
@@ -83,12 +82,7 @@ Hi! I'm a full-stack developer passionate about building modern, scalable applic
   <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png" alt="Postman" title="Postman"/>
   <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jira.png" alt="Jira" title="Jira"/>
   <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/swagger.png" alt="Swagger" title="Swagger"/>
-</td>
-<td align="right" valign="middle">
-  <img src="pikaHello.gif" width="50" alt="Pika hello mascot"/>
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
