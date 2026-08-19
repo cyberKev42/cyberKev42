@@ -10,25 +10,6 @@
 
 Hi! I'm a full-stack developer passionate about building modern, scalable applications. I work across the entire stack — from backend services with **Java & Spring Boot** to beautiful frontends with **React & React Native**.
 
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=cyberKev42&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true&count_private=true"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=cyberKev42&theme=default&show_icons=true&hide_border=true&include_all_commits=true&count_private=true"/>
-    <img alt="Kevin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=cyberKev42&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true&count_private=true"/>
-  </picture>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=cyberKev42&theme=tokyonight&hide_border=true&layout=compact"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=cyberKev42&theme=default&hide_border=true&layout=compact"/>
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyberKev42&theme=tokyonight&hide_border=true&layout=compact"/>
-  </picture>
-</div>
-
 ---
 
 ## 🛠 Tech Stack
